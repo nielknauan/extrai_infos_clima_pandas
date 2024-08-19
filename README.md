@@ -19,3 +19,5 @@ Tecnologias Utilizadas:
 Python
 Pandas
 API Visual Crossing
+
+![image](https://github.com/user-attachments/assets/58f3786e-aabe-4502-8f16-b99eff7eb289)
